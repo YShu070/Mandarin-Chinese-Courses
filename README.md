@@ -31,17 +31,3 @@
 
 ---
 
-### **颜色说明 (Color Legend)**
-- <span style="color: #FF6B6B;">第一学期 (Semester 1)</span>  
-- <span style="color: #4ECDC4;">第二学期 (Semester 2)</span>  
-- <span style="color: #45B7D1;">第三学期 (Semester 3)</span>  
-- <span style="color: #A37EBD;">第四学期 (Semester 4)</span>  
-
----
-
-### **如何使用 (How to Use)**
-1. **复制代码** → 粘贴到 GitHub 的 `README.md` 文件中
-2. 支持 HTML 的平台（如 GitHub、Notion）会自动显示颜色
-3. 如需调整颜色，修改 `<span style="color: #HEXCODE">` 中的色值即可
-
-> **提示**：在纯 Markdown 编辑器（如 VS Code）中预览时，需启用 HTML 渲染。
