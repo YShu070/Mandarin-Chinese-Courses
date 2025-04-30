@@ -29,13 +29,7 @@
 | <span style="color: #A37EBD;">**中国文化赏析Ⅱ**</span> | 考查 | 36 | — | — | — | <span style="color: #A37EBD;">2/w</span> |
 | <span style="color: #A37EBD;">**体育Ⅳ**</span> | 考查 | 72 | — | — | — | <span style="color: #A37EBD;">4/w</span> |
 
----git clone https://github.com/YShu070/Mandarin-Chinese-Courses.git
-cd Mandarin-Chinese-Courses
-mkdir docs  # Creates a folder named 'docs'
-touch docs/.gitkeep  # Creates an empty file (optional)
-git add docs/.gitkeep
-git commit -m "Add docs folder"
-git push origin main
+
 
 
 
