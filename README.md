@@ -25,7 +25,6 @@
 | <span style="color: #A37EBD;">**汉语综合中高级**</span> | 考试 | 72 | — | — | — | <span style="color: #A37EBD;">4/w</span> |
 | <span style="color: #A37EBD;">**汉语读写中高级**</span> | 考试 | 72 | — | — | — | <span style="color: #A37EBD;">4/w</span> |
 | <span style="color: #A37EBD;">**汉语听说中高级**</span> | 考试 | 72 | — | — | — | <span style="color: #A37EBD;">4/w</span> |
-| <span style="color: #A37EBD;">**汽车中文（拟新开设）**</span> | 考试 | 72 | — | — | — | <span style="color: #A37EBD;">4/w</span> |
 | <span style="color: #A37EBD;">**中国文化赏析Ⅱ**</span> | 考查 | 36 | — | — | — | <span style="color: #A37EBD;">2/w</span> |
 | <span style="color: #A37EBD;">**体育Ⅳ**</span> | 考查 | 72 | — | — | — | <span style="color: #A37EBD;">4/w</span> |
 
